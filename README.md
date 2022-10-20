@@ -10,4 +10,4 @@ If you have completed the tasks for any of the project, you can submit your solu
 
 
 1. [Hunting for Exoplanet with Machine Learning](https://github.com/Spartificial/yt-acad-projs/blob/main/heml0922-spartificial.ipynb)
-2. [Ship Detection from Satellite Imagery]()
+2. [Ship Detection from Satellite Imagery](https://github.com/Spartificial/yt-acad-projs/blob/main/sdsi0922.ipynb)
