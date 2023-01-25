@@ -13,5 +13,5 @@ If you have completed the tasks for any of the project, you can submit your solu
 2. [Ship Detection from Satellite Imagery](https://github.com/Spartificial/yt-acad-projs/blob/main/sdsi0922.ipynb)
 3. [Sunspots Prediction using Machine Learning](https://github.com/Spartificial/yt-acad-projs/blob/main/spml0922.ipynb)
 4. [India's PV Power Potential Data Analysis](https://github.com/Spartificial/yt-acad-projs/blob/main/pvpda1122.ipynb)
-5. [Predicting Stars, Galaxies & Quasars with ML Model]()
+5. [Predicting Stars, Galaxies & Quasars with ML Model](https://github.com/Spartificial/yt-acad-projs/blob/main/psgq-0922.ipynb)
 6. [Rooftop Solar Panel Detection using Deep Learning](https://github.com/Spartificial/yt-acad-projs/blob/main/rspd-1222.ipynb) 
