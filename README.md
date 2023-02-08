@@ -15,3 +15,4 @@ If you have completed the tasks for any of the project, you can submit your solu
 4. [India's PV Power Potential Data Analysis](https://github.com/Spartificial/yt-acad-projs/blob/main/pvpda1122.ipynb)
 5. [Predicting Stars, Galaxies & Quasars with ML Model](https://github.com/Spartificial/yt-acad-projs/blob/main/psgq-0922.ipynb)
 6. [Rooftop Solar Panel Detection using Deep Learning](https://github.com/Spartificial/yt-acad-projs/blob/main/rspd-1222.ipynb) 
+7. [Fish Detection using Deep Learning](https://github.com/Spartificial/yt-acad-projs/blob/main/fsdr-1122.ipynb)
