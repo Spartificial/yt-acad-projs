@@ -3,6 +3,8 @@
 
 YouTube Academic Projects Series is a youtube video series by [Spartificial](https://spartificial.com/) that provides free certified Machine Learning related student projects focusing on Space technology and Sustainable Development.
 
+Here is the [YouTube Playlist](https://youtube.com/playlist?list=PL7HQvd_RTCc3Vope7dkx4pggrH5f-uvZe) of all the project videos. Watch them for thorough explanation.
+
 
 ![YouTube Academic Projects - Spartificial (3000 × 800 px)](https://user-images.githubusercontent.com/50978045/188312778-3a699a9c-b4d1-4c4c-ab28-1305bcbf18c2.png)
 
